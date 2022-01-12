@@ -1,0 +1,4 @@
+type StatusLoggueType {
+  status: Boolean
+  user: UserType
+}

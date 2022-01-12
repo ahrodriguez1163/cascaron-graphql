@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "llillototote",
+    "password": "llillototote",
+    "database": "rentas_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "llillototote",
+    "password": "llillototote",
+    "database": "rentas_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "llillototote",
+    "password": "llillototote",
+    "database": "rentas_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}

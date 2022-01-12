@@ -1,0 +1,11 @@
+input loginInput {
+  user: String!
+  pass: String!
+}
+
+input userInput {
+  user: String
+  name: String
+  enable: Boolean
+  type: String
+}

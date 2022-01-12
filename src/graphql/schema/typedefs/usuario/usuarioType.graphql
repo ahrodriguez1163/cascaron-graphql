@@ -1,0 +1,13 @@
+type UserType {
+  id: Int
+  user: String
+  name: String
+  token: String
+  enable: Boolean
+  type: String
+}
+
+type CredentialType {
+  user: UserType
+  pass: String
+}

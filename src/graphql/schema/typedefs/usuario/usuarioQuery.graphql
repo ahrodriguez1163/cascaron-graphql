@@ -1,0 +1,4 @@
+type Query {
+  verifyToken: StatusLoggueType
+  verifyExistUser: Boolean
+}
